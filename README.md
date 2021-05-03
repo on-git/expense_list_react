@@ -1,1 +1,3 @@
-# first_react_project
+# This is the first React project
+
+Users can add and keep their expenses. It shows the expenses in a list and filters according to years.
