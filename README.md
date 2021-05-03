@@ -1,4 +1,4 @@
-# This is the first React project
+# Expense List React Project
 
 Users can add and keep their expenses. It shows the expenses in a list and filters according to years.
 
